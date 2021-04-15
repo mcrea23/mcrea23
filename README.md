@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**mcrea23/mcrea23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
 With over 8 years of experience in the telecommunications and retail industries, I have learned how to work efficiently in team settings toward common goals while also successfully working independently. I have always thrived on adapting in new environments starting from a young age living between two countries. I'm excited to move into an engineering role that merges my past experience with my enthusiasm for technology that improves people's lives.
 
