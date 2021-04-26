@@ -1,8 +1,8 @@
 Hi there 👋
 
-With over 8 years of experience in the telecommunications and retail industries, I have learned how to work efficiently in team settings toward common goals while also successfully working independently. I have always thrived on adapting in new environments starting from a young age living between two countries. I'm excited to move into an engineering role that merges my past experience with my enthusiasm for technology that improves people's lives.
+With over 8 years in the telecommunications and retail industries, working efficiently in team settings toward common goals, while also successfully working independently, have become my operating standard. In addition, constantly being exposed to new environments, such as living between two countries or pivoting careers into the tech space, provide numerous growth opportunities to adapt and thrive. Moving into an engineering role that merges my past experience with my enthusiasm for technology that improves people's lives is the next exciting challenge.
 
-Likes- ANYTHING outdoors, animals, helping others, crushing goals :)
+Likes- ANYTHING outdoors, animals, helping others, crushing goals :) 
 Languages - English, Swedish
 
 
