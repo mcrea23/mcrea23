@@ -9,6 +9,10 @@ Languages - English, Swedish
 
 My Projects
 
+Kitchen Saver 
+A web-based app allowing user to create & save recipes.
+Taking advantage of a Rails API backend for practical data management, storage and display while utilizing a React frontend, in combined use with a Redux store
+
 Rock Paper Scissor
 
 A web-based app allowing user to compete in a Rock, Paper, Scissors game against the computer
